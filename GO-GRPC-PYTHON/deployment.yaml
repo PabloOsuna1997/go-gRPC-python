@@ -14,10 +14,10 @@ spec:
     spec:
       containers:
         - name: python-server
-          image: server-python
+          image: gcr.io/pro2-so1/python-server:1.0
           ports:
           - containerPort: 50051
         - name: golang-server
-          image: server-golang
+          image: gcr.io/pro2-so1/golang-server:1.0
           ports:
           - containerPort: 3000
