@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: project-deployment
+spec:
+  selector:
+    matchLabels:
+      app: project
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: project
+    spec:
+      containers:
+        - name: python-server
+          image: server-python
+          ports:
+          - containerPort: 50051
+        - name: golang-server
+          image: server-golang
+          ports:
+          - containerPort: 3000
