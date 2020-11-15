@@ -53,8 +53,8 @@ func loadData(balancer string, cantRutines string, cantRequests string, file str
 }
 
 func sendData(x Case_, balanceador string, contador int) {
-	//IPS: http://35.239.22.19
-	//IPS: http://34.68.4.19
+	//IPS : http://35.239.22.19
+	//IPS: http://34.67.77.39
 	defer wg.Done() //indica que la gorutina finaliza
 
 	clienteHttp := &http.Client{}

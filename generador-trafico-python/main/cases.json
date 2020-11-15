@@ -1,0 +1,506 @@
+[
+  {
+    "name": "CALIFICACION 2",
+    "location": "Zacapa",
+    "age": "8",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Fawne Jacquemet",
+    "location": "Chiquimula",
+    "age": "25",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Krissie Guilfoyle",
+    "location": "Jalapa",
+    "age": "1",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Efren Ryam",
+    "location": "Jutiapa",
+    "age": "29",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Benjamen Fancet",
+    "location": "Guatemala",
+    "age": "10",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Julie Goodfellow",
+    "location": "El Progreso",
+    "age": "57",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Laura Topaz",
+    "location": "Sacatepéquez",
+    "age": "74",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Chrissy Bodycomb",
+    "location": "Chimaltenango",
+    "age": "92",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Casey MacCallum",
+    "location": "Escuintla",
+    "age": "42",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Bernardina Doutch",
+    "location": "Santa Rosa",
+    "age": "3",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Charlotte Summergill",
+    "location": "Sololá",
+    "age": "97",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Gard Force",
+    "location": "Totonicapán",
+    "age": "26",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Frederic Raper",
+    "location": "Quetzaltenango",
+    "age": "58",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Wolfie Drinkel",
+    "location": "Suchitepéquez",
+    "age": "81",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Bartie Blewett",
+    "location": "Retalhuleu",
+    "age": "29",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Giffer Grieve",
+    "location": "San Marcos",
+    "age": "36",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Jehu Snawdon",
+    "location": "Huehuetenango",
+    "age": "10",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Alissa Yitshak",
+    "location": "Quiché",
+    "age": "28",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Stacie Casemore",
+    "location": "Baja Verapaz",
+    "age": "52",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Richard Laffranconi",
+    "location": "Alta Verapaz",
+    "age": "79",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Belva Rolston",
+    "location": "Petén",
+    "age": "86",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Yorke McGowran",
+    "location": "Izabal",
+    "age": "97",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Langston Duxbury",
+    "location": "Zacapa",
+    "age": "2",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Brenn Eddie",
+    "location": "Chiquimula",
+    "age": "95",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Gwyn Adlard",
+    "location": "Jalapa",
+    "age": "62",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Shandee Featherby",
+    "location": "Jutiapa",
+    "age": "14",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Jelene Atkin",
+    "location": "Guatemala",
+    "age": "45",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Daisey Galvin",
+    "location": "El Progreso",
+    "age": "59",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Evelyn Aldham",
+    "location": "Sacatepéquez",
+    "age": "53",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Hugo Skeete",
+    "location": "Chimaltenango",
+    "age": "66",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Khalil McCallion",
+    "location": "Escuintla",
+    "age": "57",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Worden Hoys",
+    "location": "Santa Rosa",
+    "age": "82",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Ardith Van Baaren",
+    "location": "Sololá",
+    "age": "56",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Wilmette Farnworth",
+    "location": "Totonicapán",
+    "age": "5",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Franchot Clapham",
+    "location": "Quetzaltenango",
+    "age": "71",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Iago Bartolomeotti",
+    "location": "Suchitepéquez",
+    "age": "71",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Doloritas Rothwell",
+    "location": "Retalhuleu",
+    "age": "11",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Creighton O'Curneen",
+    "location": "San Marcos",
+    "age": "79",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Estrella Walklett",
+    "location": "Huehuetenango",
+    "age": "55",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Silvan Paulley",
+    "location": "Quiché",
+    "age": "84",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Nikola Le Estut",
+    "location": "Baja Verapaz",
+    "age": "11",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Catlin Bier",
+    "location": "Alta Verapaz",
+    "age": "34",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Magda Coetzee",
+    "location": "Petén",
+    "age": "16",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Fay Paxforde",
+    "location": "Izabal",
+    "age": "54",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Cynthea Suttie",
+    "location": "Zacapa",
+    "age": "10",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Danita Simakov",
+    "location": "Chiquimula",
+    "age": "16",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Aloysius Swire",
+    "location": "Jalapa",
+    "age": "43",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Alta Gallamore",
+    "location": "Jutiapa",
+    "age": "60",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Jemmie Milne",
+    "location": "Guatemala",
+    "age": "41",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Cinda Spridgeon",
+    "location": "El Progreso",
+    "age": "36",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Bradford Mercer",
+    "location": "Sacatepéquez",
+    "age": "85",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Kelsi Buckle",
+    "location": "Chimaltenango",
+    "age": "75",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Zane Mundie",
+    "location": "Escuintla",
+    "age": "97",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Gerick Meriton",
+    "location": "Santa Rosa",
+    "age": "97",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Guglielmo Groneway",
+    "location": "Sololá",
+    "age": "43",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Mattie Castagnone",
+    "location": "Totonicapán",
+    "age": "10",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Minne Benzie",
+    "location": "Quetzaltenango",
+    "age": "1",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Georgeanna Kitchenham",
+    "location": "Suchitepéquez",
+    "age": "20",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Huntley Deroche",
+    "location": "Retalhuleu",
+    "age": "13",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Nathanil Maling",
+    "location": "San Marcos",
+    "age": "94",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Oby Nottram",
+    "location": "Huehuetenango",
+    "age": "22",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Lori Frandsen",
+    "location": "Quiché",
+    "age": "14",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Aloin Schwandermann",
+    "location": "Baja Verapaz",
+    "age": "74",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Tobias Leatt",
+    "location": "Alta Verapaz",
+    "age": "86",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Zuzana Garard",
+    "location": "Petén",
+    "age": "78",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Leroi Gaber",
+    "location": "Izabal",
+    "age": "65",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Terrijo Rolin",
+    "location": "Zacapa",
+    "age": "17",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Stormy Goodbourn",
+    "location": "Chiquimula",
+    "age": "10",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Sarette Wolstencroft",
+    "location": "Jalapa",
+    "age": "19",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Germana Govini",
+    "location": "Jutiapa",
+    "age": "10",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Alaine Huortic",
+    "location": "Guatemala",
+    "age": "46",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  },
+  {
+    "name": "Clement Challice",
+    "location": "El Progreso",
+    "age": "36",
+    "infectedtype": "communitary",
+    "state": "asymptomatiic"
+  }
+]
